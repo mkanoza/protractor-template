@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="To test ecommerce site" timestamp="2017-08-29T08:02:54" hostname="localhost" time="18.5" errors="0" tests="0" skipped="0" failures="0">
+ </testsuite>
+ <testsuite name="To test ecommerce site.To test login funcionality" timestamp="2017-08-29T08:02:54" hostname="localhost" time="11.43" errors="0" tests="2" skipped="0" failures="0">
+  <testcase classname="To test ecommerce site.To test login funcionality" name="Should be able to close popup" time="6.189">
+  </testcase>
+  <testcase classname="To test ecommerce site.To test login funcionality" name="Should be able to click on login button" time="5.239">
+  </testcase>
+ </testsuite>
+ <testsuite name="To test ecommerce site.To test searching funcionality" timestamp="2017-08-29T08:03:06" hostname="localhost" time="7.07" errors="0" tests="1" skipped="0" failures="0">
+  <testcase classname="To test ecommerce site.To test searching funcionality" name="Should be able to search products" time="7.069">
+  </testcase>
+ </testsuite>
+</testsuites>
